@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ICT22026\\ICT2FirstConAppCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{821E9C13-33C9-49AE-B4C3-667388A7628E}|ICT2FirstConAppCS.csproj|c:\\ict22026\\ict2firstconappcs\\linqdemos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821E9C13-33C9-49AE-B4C3-667388A7628E}|ICT2FirstConAppCS.csproj|solutionrelative:linqdemos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821E9C13-33C9-49AE-B4C3-667388A7628E}|ICT2FirstConAppCS.csproj|c:\\ict22026\\ict2firstconappcs\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821E9C13-33C9-49AE-B4C3-667388A7628E}|ICT2FirstConAppCS.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\ICT22026\\ICT2FirstConAppCS\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\ICT22026\\ICT2FirstConAppCS\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBEAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:17:12.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LINQDemos.cs",
+              "DocumentMoniker": "C:\\ICT22026\\ICT2FirstConAppCS\\LINQDemos.cs",
+              "RelativeDocumentMoniker": "LINQDemos.cs",
+              "ToolTip": "C:\\ICT22026\\ICT2FirstConAppCS\\LINQDemos.cs",
+              "RelativeToolTip": "LINQDemos.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAIwJ8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T08:06:33.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

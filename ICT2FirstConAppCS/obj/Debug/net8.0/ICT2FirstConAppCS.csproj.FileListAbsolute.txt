@@ -1,0 +1,14 @@
+C:\ICT22026\ICT2FirstConAppCS\bin\Debug\net8.0\ICT2FirstConAppCS.exe
+C:\ICT22026\ICT2FirstConAppCS\bin\Debug\net8.0\ICT2FirstConAppCS.deps.json
+C:\ICT22026\ICT2FirstConAppCS\bin\Debug\net8.0\ICT2FirstConAppCS.runtimeconfig.json
+C:\ICT22026\ICT2FirstConAppCS\bin\Debug\net8.0\ICT2FirstConAppCS.dll
+C:\ICT22026\ICT2FirstConAppCS\bin\Debug\net8.0\ICT2FirstConAppCS.pdb
+C:\ICT22026\ICT2FirstConAppCS\obj\Debug\net8.0\ICT2FirstConAppCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\ICT22026\ICT2FirstConAppCS\obj\Debug\net8.0\ICT2FirstConAppCS.AssemblyInfoInputs.cache
+C:\ICT22026\ICT2FirstConAppCS\obj\Debug\net8.0\ICT2FirstConAppCS.AssemblyInfo.cs
+C:\ICT22026\ICT2FirstConAppCS\obj\Debug\net8.0\ICT2FirstConAppCS.csproj.CoreCompileInputs.cache
+C:\ICT22026\ICT2FirstConAppCS\obj\Debug\net8.0\ICT2FirstConAppCS.dll
+C:\ICT22026\ICT2FirstConAppCS\obj\Debug\net8.0\refint\ICT2FirstConAppCS.dll
+C:\ICT22026\ICT2FirstConAppCS\obj\Debug\net8.0\ICT2FirstConAppCS.pdb
+C:\ICT22026\ICT2FirstConAppCS\obj\Debug\net8.0\ICT2FirstConAppCS.genruntimeconfig.cache
+C:\ICT22026\ICT2FirstConAppCS\obj\Debug\net8.0\ref\ICT2FirstConAppCS.dll
