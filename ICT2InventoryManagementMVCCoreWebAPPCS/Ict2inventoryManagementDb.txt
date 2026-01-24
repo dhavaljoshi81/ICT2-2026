@@ -1,0 +1,20 @@
+Ict2inventoryManagementDb
+
+CREATE TABLE [dbo].[Category] (
+    [CategoryID]   INT          NOT NULL,
+    [CategoryName] VARCHAR (50) NOT NULL,
+    CONSTRAINT [PK_Category] PRIMARY KEY CLUSTERED ([CategoryID] ASC)
+);
+
+
+CREATE TABLE [dbo].[Product] (
+    [ProductId]   INT          NOT NULL,
+    [ProductName] VARCHAR (50) NOT NULL,
+    [Rate]        INT          NOT NULL,
+    [Category]    INT          NOT NULL,
+    [Description] VARCHAR (50) NULL,
+    PRIMARY KEY CLUSTERED ([ProductId] ASC),
+    CONSTRAINT [FK_Product_Category] FOREIGN KEY ([Category]) REFERENCES [dbo].[Category] ([CategoryID]),
+    CONSTRAINT [FK_Product_Product] FOREIGN KEY ([ProductId]) REFERENCES [dbo].[Product] ([ProductId])
+);
+
