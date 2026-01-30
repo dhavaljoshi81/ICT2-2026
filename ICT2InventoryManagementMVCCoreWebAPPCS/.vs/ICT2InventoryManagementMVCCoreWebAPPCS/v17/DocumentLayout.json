@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\ict22026\\ict2inventorymanagementmvccorewebappcs\\views\\products\\searchbyrate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:views\\products\\searchbyrate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\ict22026\\ict2inventorymanagementmvccorewebappcs\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\ict22026\\ict2inventorymanagementmvccorewebappcs\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\ict22026\\ict2inventorymanagementmvccorewebappcs\\views\\products\\searchbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:views\\products\\searchbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\ict22026\\ict2inventorymanagementmvccorewebappcs\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\ict22026\\ict2inventorymanagementmvccorewebappcs\\views\\products\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:views\\products\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\ict22026\\ict2inventorymanagementmvccorewebappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\ict22026\\ict2inventorymanagementmvccorewebappcs\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,54 +46,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "Views\\Products\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAANAAAA",
+              "DocumentIndex": 0,
+              "Title": "SearchByRate.cshtml",
+              "DocumentMoniker": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\Views\\Products\\SearchByRate.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\SearchByRate.cshtml",
+              "ToolTip": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\Views\\Products\\SearchByRate.cshtml",
+              "RelativeToolTip": "Views\\Products\\SearchByRate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-24T06:18:17.001Z",
+              "WhenOpened": "2026-01-27T07:01:02.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAIwBoAAAARAAAA",
+              "Title": "SearchResult.cshtml",
+              "DocumentMoniker": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\Views\\Products\\SearchResult.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\SearchResult.cshtml",
+              "ToolTip": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\Views\\Products\\SearchResult.cshtml",
+              "RelativeToolTip": "Views\\Products\\SearchResult.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-27T06:53:18.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T06:04:10.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T05:32:31.631Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "Views\\Products\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-24T06:00:08.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAAAEMAAAAMAAAA",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAwwM0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-24T05:53:27.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchByName.cshtml",
+              "DocumentMoniker": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\Views\\Products\\SearchByName.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\SearchByName.cshtml",
+              "ToolTip": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\Views\\Products\\SearchByName.cshtml",
+              "RelativeToolTip": "Views\\Products\\SearchByName.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-27T06:41:09.264Z",
               "EditorCaption": ""
             }
           ]

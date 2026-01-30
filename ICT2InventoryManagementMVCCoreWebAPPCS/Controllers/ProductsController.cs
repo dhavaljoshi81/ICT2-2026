@@ -21,10 +21,12 @@ namespace ICT2InventoryManagementMVCCoreWebAPPCS.Controllers
         // GET: Products
         public async Task<IActionResult> Index()
         {
-            var ict2inventoryManagementDbContext = _context.Products.Include(p => p.CategoryNavigation);
+            var ict2inventoryManagementDbContext = 
+                _context.Products.Include(p => p.CategoryNavigation);
             return View(await ict2inventoryManagementDbContext.ToListAsync());
         }
 
+        
         // GET: Products/Details/5
         public async Task<IActionResult> Details(int? id)
         {
@@ -58,11 +60,11 @@ namespace ICT2InventoryManagementMVCCoreWebAPPCS.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("ProductId,ProductName,Rate,Category,Description")] Product product)
         {
-            product.CategoryNavigation = _context.Categories
-                .FirstOrDefault(c => c.CategoryId == product.Category);
+            //product.CategoryNavigation = _context.Categories
+            //    .FirstOrDefault(c => c.CategoryId == product.Category);
            
-            _context.Categories
-                .FirstOrDefault(c => c.CategoryId == product.Category)?.Products.Add(product);
+            //_context.Categories
+            //    .FirstOrDefault(c => c.CategoryId == product.Category)?.Products.Add(product);
             
             if (ModelState.IsValid)
             {
@@ -165,5 +167,44 @@ namespace ICT2InventoryManagementMVCCoreWebAPPCS.Controllers
         {
             return _context.Products.Any(e => e.ProductId == id);
         }
+
+        public IActionResult SearchByName()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult SearchByName(string ProductName)
+        {
+            var products = _context.Products
+                .Where(p => p.ProductName.Contains(ProductName))
+                .Include(p => p.CategoryNavigation)
+                .ToList();
+            return View("SearchResult", products.ToList());
+        }
+        
+        // GET: Products/SearchResult
+        public IActionResult SearchResult(List<Product> productList)
+        {
+            return View(productList.ToList());
+        }
+
+        public IActionResult SearchByRate()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult SearchByRate(int minRate, int maxRate)
+        {
+            var products = _context.Products
+                .Where(p => p.Rate >= minRate)
+                .Where(p => p.Rate <= maxRate)
+                .Include(p => p.CategoryNavigation)
+                .ToList();
+            return View("SearchResult", products.ToList());
+        }
+
+
     }
 }

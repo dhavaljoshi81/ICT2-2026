@@ -129,7 +129,7 @@ namespace ICT2FirstConAppCS
             }
         }
 
-        static void Main(string[] args)
+        static void Main5(string[] args)
         {
             List<Product> products = new List<Product>();
             products.Add(new Product { ID = 1, Name = "Computer", Rate = 50000, Category="Electronics", Description = "For Office use." });
