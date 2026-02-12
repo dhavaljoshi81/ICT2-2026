@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UFV9MU5Ixmy2AxbuTXvF7MvNt9aZRkdkrAcFzE5B0bM=",
+  "Source": "InventoryManagementAPICS",
+  "BasePath": "_content/InventoryManagementAPICS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

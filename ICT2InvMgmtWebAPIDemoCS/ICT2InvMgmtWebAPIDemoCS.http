@@ -1,0 +1,6 @@
+@ICT2InvMgmtWebAPIDemoCS_HostAddress = http://localhost:5129
+
+GET {{ICT2InvMgmtWebAPIDemoCS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
