@@ -7353,11 +7353,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\ICT2InventoryManagementMVCCoreWebAPPCS.csproj",
+      "projectUniqueName": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\ICT2InventoryManagementMVCCoreWebAPPCS.csproj",
       "projectName": "ICT2InventoryManagementMVCCoreWebAPPCS",
-      "projectPath": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\ICT2InventoryManagementMVCCoreWebAPPCS.csproj",
+      "projectPath": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\ICT2InventoryManagementMVCCoreWebAPPCS.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\obj\\",
+      "outputPath": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

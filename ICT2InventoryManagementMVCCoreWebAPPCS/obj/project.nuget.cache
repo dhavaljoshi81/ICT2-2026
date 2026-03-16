@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t0tcjONSIaw=",
+  "dgSpecHash": "fBjnf1tATRk=",
   "success": true,
-  "projectFilePath": "C:\\ICT22026\\ICT2InventoryManagementMVCCoreWebAPPCS\\ICT2InventoryManagementMVCCoreWebAPPCS.csproj",
+  "projectFilePath": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\ICT2InventoryManagementMVCCoreWebAPPCS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

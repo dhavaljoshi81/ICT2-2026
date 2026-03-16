@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git Repos\\202526-IT7\\DIDemoSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2AFF0-2D29-4471-9C87-2FE9060A5698}|DITestMVCCoreWebAppCS\\DITestMVCCoreWebAppCS.csproj|c:\\git repos\\202526-it7\\didemosln\\ditestmvccorewebappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2AFF0-2D29-4471-9C87-2FE9060A5698}|DITestMVCCoreWebAppCS\\DITestMVCCoreWebAppCS.csproj|solutionrelative:ditestmvccorewebappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2AFF0-2D29-4471-9C87-2FE9060A5698}|DITestMVCCoreWebAppCS\\DITestMVCCoreWebAppCS.csproj|c:\\git repos\\202526-it7\\didemosln\\ditestmvccorewebappcs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04E2AFF0-2D29-4471-9C87-2FE9060A5698}|DITestMVCCoreWebAppCS\\DITestMVCCoreWebAppCS.csproj|solutionrelative:ditestmvccorewebappcs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B42AD7-793D-4AA5-9730-082C1E408BA2}|AppLoggerPostgres\\AppLoggerPostgres.csproj|c:\\git repos\\202526-it7\\didemosln\\apploggerpostgres\\apploggerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B42AD7-793D-4AA5-9730-082C1E408BA2}|AppLoggerPostgres\\AppLoggerPostgres.csproj|solutionrelative:apploggerpostgres\\apploggerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B42AD7-793D-4AA5-9730-082C1E408BA2}|AppLoggerPostgres\\AppLoggerPostgres.csproj|c:\\git repos\\202526-it7\\didemosln\\apploggerpostgres\\applogpostgresqlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B42AD7-793D-4AA5-9730-082C1E408BA2}|AppLoggerPostgres\\AppLoggerPostgres.csproj|solutionrelative:apploggerpostgres\\applogpostgresqlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2AFF0-2D29-4471-9C87-2FE9060A5698}|DITestMVCCoreWebAppCS\\DITestMVCCoreWebAppCS.csproj|c:\\git repos\\202526-it7\\didemosln\\ditestmvccorewebappcs\\views\\ditest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E2AFF0-2D29-4471-9C87-2FE9060A5698}|DITestMVCCoreWebAppCS\\DITestMVCCoreWebAppCS.csproj|solutionrelative:ditestmvccorewebappcs\\views\\ditest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2AFF0-2D29-4471-9C87-2FE9060A5698}|DITestMVCCoreWebAppCS\\DITestMVCCoreWebAppCS.csproj|c:\\git repos\\202526-it7\\didemosln\\ditestmvccorewebappcs\\controllers\\ditestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2AFF0-2D29-4471-9C87-2FE9060A5698}|DITestMVCCoreWebAppCS\\DITestMVCCoreWebAppCS.csproj|solutionrelative:ditestmvccorewebappcs\\controllers\\ditestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppLoggerDbContext.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT7\\DIDemoSln\\AppLoggerPostgres\\AppLoggerDbContext.cs",
+              "RelativeDocumentMoniker": "AppLoggerPostgres\\AppLoggerDbContext.cs",
+              "ToolTip": "C:\\Git Repos\\202526-IT7\\DIDemoSln\\AppLoggerPostgres\\AppLoggerDbContext.cs",
+              "RelativeToolTip": "AppLoggerPostgres\\AppLoggerDbContext.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:43:50.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppLogPostgreSQLManager.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT7\\DIDemoSln\\AppLoggerPostgres\\AppLogPostgreSQLManager.cs",
+              "RelativeDocumentMoniker": "AppLoggerPostgres\\AppLogPostgreSQLManager.cs",
+              "ToolTip": "C:\\Git Repos\\202526-IT7\\DIDemoSln\\AppLoggerPostgres\\AppLogPostgreSQLManager.cs",
+              "RelativeToolTip": "AppLoggerPostgres\\AppLogPostgreSQLManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:43:27.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT7\\DIDemoSln\\DITestMVCCoreWebAppCS\\appsettings.json",
+              "RelativeDocumentMoniker": "DITestMVCCoreWebAppCS\\appsettings.json",
+              "ToolTip": "C:\\Git Repos\\202526-IT7\\DIDemoSln\\DITestMVCCoreWebAppCS\\appsettings.json",
+              "RelativeToolTip": "DITestMVCCoreWebAppCS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-06T06:41:27.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT7\\DIDemoSln\\DITestMVCCoreWebAppCS\\Views\\DITest\\Index.cshtml",
+              "RelativeDocumentMoniker": "DITestMVCCoreWebAppCS\\Views\\DITest\\Index.cshtml",
+              "ToolTip": "C:\\Git Repos\\202526-IT7\\DIDemoSln\\DITestMVCCoreWebAppCS\\Views\\DITest\\Index.cshtml",
+              "RelativeToolTip": "DITestMVCCoreWebAppCS\\Views\\DITest\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-06T06:38:21.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DITestController.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT7\\DIDemoSln\\DITestMVCCoreWebAppCS\\Controllers\\DITestController.cs",
+              "RelativeDocumentMoniker": "DITestMVCCoreWebAppCS\\Controllers\\DITestController.cs",
+              "ToolTip": "C:\\Git Repos\\202526-IT7\\DIDemoSln\\DITestMVCCoreWebAppCS\\Controllers\\DITestController.cs",
+              "RelativeToolTip": "DITestMVCCoreWebAppCS\\Controllers\\DITestController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:34:03.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT7\\DIDemoSln\\DITestMVCCoreWebAppCS\\Program.cs",
+              "RelativeDocumentMoniker": "DITestMVCCoreWebAppCS\\Program.cs",
+              "ToolTip": "C:\\Git Repos\\202526-IT7\\DIDemoSln\\DITestMVCCoreWebAppCS\\Program.cs",
+              "RelativeToolTip": "DITestMVCCoreWebAppCS\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:28:00.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

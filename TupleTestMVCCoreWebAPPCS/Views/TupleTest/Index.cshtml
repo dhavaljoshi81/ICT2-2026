@@ -1,0 +1,49 @@
+﻿@model List<(int id, string name)>
+
+@{
+    ViewData["Title"] = "TupleTest Index";
+}
+
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th></th>
+        </tr>
+    </thead>
+    @foreach ((int id, string name) stud in Model)
+    {
+        <tr>
+            <td>@stud.id</td>
+            <td>@stud.name</td>
+            <td><a href="Edit/@stud.id" > Edit </a></td>
+        </tr>
+    }    
+</table>
+<br/>
+<hr/>
+
+@if (ViewBag.action == "Edit")
+{
+    var stud = ((int id, string name))ViewBag.studEdit;
+    <form asp-action="Edit">
+        ID : <input type="text" name="id" value="@stud.id" disabled/>
+        <br />
+        Name : <input type="text" name="name" value="@stud.name" placeholder="Enter name" required />
+        <br />
+        <button type="submit">Save</button>
+    </form>
+}
+else
+{
+    <form asp-action="Create">
+        ID : <input type="text" name="id" placeholder="Enter id" required />
+        <br />
+        Name : <input type="text" name="name" placeholder="Enter name" required />
+        <br />
+        <button type="submit">Add Student</button>
+    </form>
+}
+
+
