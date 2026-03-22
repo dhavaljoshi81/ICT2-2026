@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ICT2InventoryManagementMVCCoreWebAPPCS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20e342917066f67532aa0c9a8e211a2d12bd96d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+655fac514323109b22b1f0bf47cd7f89af7a78bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ICT2InventoryManagementMVCCoreWebAPPCS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ICT2InventoryManagementMVCCoreWebAPPCS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

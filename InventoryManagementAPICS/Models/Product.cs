@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using System;
 using System.Collections.Generic;
 
 namespace InventoryManagementAPICS.Models;
@@ -15,5 +16,6 @@ public partial class Product
 
     public string? Description { get; set; }
 
+    [ValidateNever]
     public virtual Category CategoryNavigation { get; set; } = null!;
 }

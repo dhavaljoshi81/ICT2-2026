@@ -51,7 +51,8 @@ public partial class Ict2inventoryManagementDbContext : DbContext
                 .HasMaxLength(50)
                 .IsUnicode(false);
 
-            entity.HasOne(d => d.CategoryNavigation).WithMany(p => p.Products)
+            entity.HasOne(d => d.CategoryNavigation)
+            .WithMany(p => p.Products)
                 .HasForeignKey(d => d.Category)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_Product_Category");

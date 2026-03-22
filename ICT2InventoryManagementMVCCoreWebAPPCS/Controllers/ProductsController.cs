@@ -204,7 +204,5 @@ namespace ICT2InventoryManagementMVCCoreWebAPPCS.Controllers
                 .ToList();
             return View("SearchResult", products.ToList());
         }
-
-
     }
 }

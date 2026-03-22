@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InventoryManagementAPICS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88de50b265a2abd05eaa3f528080c9e7a2ab918b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+655fac514323109b22b1f0bf47cd7f89af7a78bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("InventoryManagementAPICS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InventoryManagementAPICS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

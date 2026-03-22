@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\git repos\\202526-ict2\\ict2inventorymanagementmvccorewebappcs\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\git repos\\202526-ict2\\ict2inventorymanagementmvccorewebappcs\\views\\products\\searchbyrate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:views\\products\\searchbyrate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\git repos\\202526-ict2\\ict2inventorymanagementmvccorewebappcs\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\git repos\\202526-ict2\\ict2inventorymanagementmvccorewebappcs\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\git repos\\202526-ict2\\ict2inventorymanagementmvccorewebappcs\\views\\products\\searchbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:views\\products\\searchbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\git repos\\202526-ict2\\ict2inventorymanagementmvccorewebappcs\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\git repos\\202526-ict2\\ict2inventorymanagementmvccorewebappcs\\views\\products\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:views\\products\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\git repos\\202526-ict2\\ict2inventorymanagementmvccorewebappcs\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|c:\\git repos\\202526-ict2\\ict2inventorymanagementmvccorewebappcs\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D8DA1E-D33E-45FD-93B7-2E9EED13DE2B}|ICT2InventoryManagementMVCCoreWebAPPCS.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,77 +42,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJMAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T14:56:14.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SearchByRate.cshtml",
-              "DocumentMoniker": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Views\\Products\\SearchByRate.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\SearchByRate.cshtml",
-              "ToolTip": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Views\\Products\\SearchByRate.cshtml",
-              "RelativeToolTip": "Views\\Products\\SearchByRate.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-27T07:01:02.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SearchResult.cshtml",
-              "DocumentMoniker": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Views\\Products\\SearchResult.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\SearchResult.cshtml",
-              "ToolTip": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Views\\Products\\SearchResult.cshtml",
-              "RelativeToolTip": "Views\\Products\\SearchResult.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAwDYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-27T06:53:18.457Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T05:32:31.631Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAMAAAAAAAAAAAAAwwM0AAAAJAAAA",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAF4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T05:53:27.739Z"
+              "WhenOpened": "2026-03-17T04:54:03.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:46:35.803Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SearchByName.cshtml",
-              "DocumentMoniker": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Views\\Products\\SearchByName.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\SearchByName.cshtml",
-              "ToolTip": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Views\\Products\\SearchByName.cshtml",
-              "RelativeToolTip": "Views\\Products\\SearchByName.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-27T06:41:09.264Z"
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:46:28.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Git Repos\\202526-ICT2\\ICT2InventoryManagementMVCCoreWebAPPCS\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAAJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:46:16.82Z"
             }
           ]
         }
