@@ -6,13 +6,16 @@ namespace InventoryManagementAPICS.Models;
 
 public partial class Ict2inventoryManagementDbContext : DbContext
 {
+    private readonly IConfiguration _configuration;
     public Ict2inventoryManagementDbContext()
     {
     }
 
-    public Ict2inventoryManagementDbContext(DbContextOptions<Ict2inventoryManagementDbContext> options)
+    public Ict2inventoryManagementDbContext(DbContextOptions<Ict2inventoryManagementDbContext> options,
+        IConfiguration configuration)
         : base(options)
     {
+        _configuration = configuration;
     }
 
     public virtual DbSet<Category> Categories { get; set; }
@@ -20,8 +23,10 @@ public partial class Ict2inventoryManagementDbContext : DbContext
     public virtual DbSet<Product> Products { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=(local);Initial Catalog=ICT2InventoryManagementDB;Integrated Security=True;Encrypt=False");
+        => optionsBuilder.UseSqlServer(_configuration.GetConnectionString("InvConStr"));
+
+//#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
+//        => optionsBuilder.UseSqlServer("Data Source=(local);Initial Catalog=ICT2InventoryManagementDB;Integrated Security=True;Encrypt=False");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

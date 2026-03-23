@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Git Repos\\202526-ICT2\\InventoryManagementAPICS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F56A7BAB-B525-4959-92EF-904C90BAED82}|InventoryManagementAPICS.csproj|c:\\git repos\\202526-ict2\\inventorymanagementapics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56A7BAB-B525-4959-92EF-904C90BAED82}|InventoryManagementAPICS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F56A7BAB-B525-4959-92EF-904C90BAED82}|InventoryManagementAPICS.csproj|c:\\git repos\\202526-ict2\\inventorymanagementapics\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F56A7BAB-B525-4959-92EF-904C90BAED82}|InventoryManagementAPICS.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{F56A7BAB-B525-4959-92EF-904C90BAED82}|InventoryManagementAPICS.csproj|c:\\git repos\\202526-ict2\\inventorymanagementapics\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F56A7BAB-B525-4959-92EF-904C90BAED82}|InventoryManagementAPICS.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A7BAB-B525-4959-92EF-904C90BAED82}|InventoryManagementAPICS.csproj|c:\\git repos\\202526-ict2\\inventorymanagementapics\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56A7BAB-B525-4959-92EF-904C90BAED82}|InventoryManagementAPICS.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A7BAB-B525-4959-92EF-904C90BAED82}|InventoryManagementAPICS.csproj|c:\\git repos\\202526-ict2\\inventorymanagementapics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F56A7BAB-B525-4959-92EF-904C90BAED82}|InventoryManagementAPICS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,33 +54,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-ICT2\\InventoryManagementAPICS\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Git Repos\\202526-ICT2\\InventoryManagementAPICS\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAwHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T10:46:33.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-ICT2\\InventoryManagementAPICS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Git Repos\\202526-ICT2\\InventoryManagementAPICS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T10:24:46.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Git Repos\\202526-ICT2\\InventoryManagementAPICS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Git Repos\\202526-ICT2\\InventoryManagementAPICS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-22T10:24:32.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Git Repos\\202526-ICT2\\InventoryManagementAPICS\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
               "ToolTip": "C:\\Git Repos\\202526-ICT2\\InventoryManagementAPICS\\Models\\Category.cs",
               "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAcwA0AAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-22T10:17:23.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Ict2inventoryManagementDbContext.cs",
               "DocumentMoniker": "C:\\Git Repos\\202526-ICT2\\InventoryManagementAPICS\\Models\\Ict2inventoryManagementDbContext.cs",
               "RelativeDocumentMoniker": "Models\\Ict2inventoryManagementDbContext.cs",
               "ToolTip": "C:\\Git Repos\\202526-ICT2\\InventoryManagementAPICS\\Models\\Ict2inventoryManagementDbContext.cs",
               "RelativeToolTip": "Models\\Ict2inventoryManagementDbContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBkAAAAIAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-21T12:47:06.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Git Repos\\202526-ICT2\\InventoryManagementAPICS\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -81,13 +132,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Git Repos\\202526-ICT2\\InventoryManagementAPICS\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Git Repos\\202526-ICT2\\InventoryManagementAPICS\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAuwB0AAAAeAAAA",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAwG0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-21T12:40:19.242Z",
               "EditorCaption": ""

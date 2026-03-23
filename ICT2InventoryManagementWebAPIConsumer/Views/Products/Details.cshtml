@@ -1,0 +1,51 @@
+﻿@model ICT2InventoryManagementWebAPIConsumer.Models.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<div class="container mt-4">
+    <div class="card shadow">
+        <div class="card-header bg-info text-white d-flex justify-content-between align-items-center">
+            <h4 class="mb-0">Product Specifications</h4>
+            <span class="badge bg-light text-dark">ID: @Model.ProductId</span>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-8">
+                    <dl class="row">
+                        <dt class="col-sm-4 text-muted">Product Name</dt>
+                        <dd class="col-sm-8 fw-bold">@Model.ProductName</dd>
+
+                        <dt class="col-sm-4 text-muted">Category</dt>
+                        <dd class="col-sm-8">
+                            <span class="badge rounded-pill bg-secondary">
+                                @(Model.CategoryNavigation?.categoryName ?? "Uncategorized")
+                            </span>
+                        </dd>
+
+                        <dt class="col-sm-4 text-muted">Price/Rate</dt>
+                        <dd class="col-sm-8 text-success fw-bold">
+                            @Model.Rate.ToString("C")
+                        </dd>
+
+                        <dt class="col-sm-4 text-muted">Description</dt>
+                        <dd class="col-sm-8">
+                            <p class="text-wrap">@(string.IsNullOrEmpty(Model.Description) ? "No description provided." : Model.Description)</p>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="d-flex gap-2">
+                <a asp-action="Edit" asp-route-id="@Model.ProductId" class="btn btn-primary">
+                    <i class="bi bi-pencil"></i> Edit Product
+                </a>
+                <a asp-action="Index" class="btn btn-outline-secondary">
+                    Back to Inventory
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

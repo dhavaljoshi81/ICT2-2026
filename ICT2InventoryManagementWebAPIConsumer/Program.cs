@@ -1,7 +1,13 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//string inventoryApiUrl = builder.Configuration["InventoryAPI"];
+//Console.WriteLine($"Inventory API URL: {inventoryApiUrl}");
+//builder.Services.AddHttpClient("InventoryApi", c => c.BaseAddress = new Uri(inventoryApiUrl));
+
+builder.Services.AddHttpClient("InventoryApi", 
+    c => c.BaseAddress = new Uri(builder.Configuration["InventoryAPI"]));
 
 var app = builder.Build();
 
@@ -22,6 +28,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Categories}/{action=Index}/{id?}");
+    pattern: "{controller=Products}/{action=Index}/{id?}");
 
 app.Run();

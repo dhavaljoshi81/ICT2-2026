@@ -1,0 +1,43 @@
+﻿@model ICT2InventoryManagementWebAPIConsumer.Models.Product
+
+@{
+    ViewData["Title"] = "Create Product";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6 mt-4">
+        <div class="card shadow">
+            <div class="card-header bg-success text-white"><h4>Create Product</h4></div>
+            <div class="card-body">
+                <form asp-action="Create">
+                    <div class="mb-3">
+                        <label asp-for="ProductId" class="form-label"></label>
+                        <input asp-for="ProductId" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="ProductName" class="form-label"></label>
+                        <input asp-for="ProductName" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Rate" class="form-label"></label>
+                        <input asp-for="Rate" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Category</label>
+                        <select asp-for="Category" class="form-select" asp-items="ViewBag.CategoryList">
+                            <option value="">-- Select Category --</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Description" class="form-label"></label>
+                        <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+                    </div>
+                    <div class="d-flex justify-content-between">
+                        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                        <button type="submit" class="btn btn-primary">Save Product</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
